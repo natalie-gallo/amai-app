@@ -11,7 +11,7 @@
 
 ### Description
 
-Amai is a health tracker app aimed to help people who struggle with health problems keep track of their wellbeing. It is specifically aimed at those who struggle with diabetic symptoms (Pre-Diabetes, Diabetes I, Diabetes II) and need help tracking their food intake and glucose levels, hence the name "Amai", the romanization of the Japanese word あまい, meaning sweet. While the goal is to keep track of details such as blood sugar levels, there is also features like a heart rate tracker, a mood tracker, and a recipes section. This allows the app to also provide a general outlet for the users thoughts and emotions, or to just find inspiration for their next meal. This project was inspired by my mother who struggles with health issues.
+Amai is a health tracker app aimed to help people who struggle with health problems keep track of their wellbeing. It is specifically aimed at those who struggle with diabetic symptoms (Pre-Diabetes, Diabetes I, Diabetes II) and need help tracking their food intake and glucose levels, hence the name "Amai", the romanization of the Japanese word あまい, meaning sweet. While the goal is to keep track of details such as blood sugar levels, there is also features like a heart rate tracker, a mood tracker, and a recipes section. This allows the app to also provide a general outlet for the users thoughts and emotions, or to just find inspiration for their next meal. My vision for this app is something minimalistic and is easy to navigate in order to increase accessibility. This project was inspired by my mother who struggles with health issues.
 
 ### App Evaluation
 
