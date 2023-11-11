@@ -85,6 +85,14 @@ Amai is a health tracker app aimed to help people who struggle with health probl
 
 <img src="https://github.com/natalie-gallo/amai-app/blob/3bac97c1be8df1c84802bacac7a2941de6377b66/amai-app-v1-wireframe.png" width=600>
 
+<div>
+    <a href="https://www.loom.com/share/7298e03267e34ab7b22e97b5494355f5">
+    </a>
+    <a href="https://www.loom.com/share/7298e03267e34ab7b22e97b5494355f5">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/7298e03267e34ab7b22e97b5494355f5-with-play.gif">
+    </a>
+  </div>
+
 ## Schema 
 
 [This section will be completed in Unit 9]
