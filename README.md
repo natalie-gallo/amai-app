@@ -82,12 +82,9 @@ Amai is a health tracker app aimed to help people who struggle with health probl
 - [ ] Recipe Detail
 * -> none for this version
 
-## Wireframes
+## Wireframe(s)
 
-[Add picture of your hand sketched wireframes in this section]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
-
-### [BONUS] Digital Wireframes & Mockups
+<img src="https://github.com/natalie-gallo/amai-app/blob/3bac97c1be8df1c84802bacac7a2941de6377b66/amai-app-v1-wireframe.png" width=600>
 
 ## Schema 
 
