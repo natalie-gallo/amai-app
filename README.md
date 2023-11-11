@@ -15,7 +15,6 @@ Amai is a health tracker app aimed to help people who struggle with health probl
 
 ### App Evaluation
 
-[Evaluation of your app across the following attributes]
 - **Category:** Health / Lifestyle
 - **Mobile:** Mobile allows for easy tracking throughout the day, no login required, without the need of opening a browser. 
 - **Story:** Encourages physical and mental wellbeing. User will be more aware of their health and it will motivate them to take control of what they can, such as their diet.
