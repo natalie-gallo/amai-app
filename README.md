@@ -28,21 +28,21 @@ Amai is a health tracker app aimed to help people who struggle with health probl
 
 **Required Must-have Stories**
 
-* User can choose between their Diary and Recipe library
-* User can make a Diary Entry
-* User can specify their blood sugar level, heart rate, and mood level
-* User can see all their past entries
-* User can see a catalouge of Recipes
-* User can check details of each Recipe
+[x] User can choose between their Diary and Recipe Screen
+[ ] User can make a Diary Entry
+[ ] User can specify their blood sugar level, heart rate, and mood level
+[ ] User can see all their past entries
+[ ] User can see a catalouge of Recipes
+[ ] User can check details of each Recipe
 
 **Optional Nice-to-have Stories**
 
-* User can view graph of their sugar and heart record history
-* User can see health attribute categories for each recipe (low-carb, vegan, gluten-free, etc)
+[ ] User can view graph of their sugar and heart record history
+[ ] User can see health attribute categories for each recipe (low-carb, vegan, gluten-free, etc)
 
 ### 2. Screen Archetypes
 
-- [ ] Launch Screen
+- [x] Launch Screen
 * User can choose between their Diary and Recipe library
 - [ ] Diary Stream
 * User can see all their past entries
@@ -69,10 +69,10 @@ Amai is a health tracker app aimed to help people who struggle with health probl
 
 **Flow Navigation** (Screen to Screen)
 
-- [ ] Launch Screen
+- [x] Launch Screen
 * -> Diary Stream
 * -> Recipe Stream
-- [ ] Diary Stream
+- [x] Diary Stream
 * -> Diary Creation
 - [ ] Recipe Stream
 * -> Recipe Detail
@@ -106,3 +106,8 @@ Amai is a health tracker app aimed to help people who struggle with health probl
 - [Add list of network requests by screen ]
 - [Create basic snippets for each Parse network request]
 - [OPTIONAL: List endpoints if using existing API such as Yelp]
+
+### Updates
+
+V1: 
+- 11/15/2023 Configured most segues, finishing up recipe seques
