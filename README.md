@@ -29,9 +29,9 @@ Amai is a health tracker app aimed to help people who struggle with health probl
 **Required Must-have Stories**
 
 [x] User can choose between their Diary and Recipe Screen
-[ ] User can make a Diary Entry
-[ ] User can specify their blood sugar level, heart rate, and mood level
-[ ] User can see all their past entries
+[x] User can make a Diary Entry
+[x] User can specify their blood sugar level, heart rate, and mood level
+[x] User can see all their past entries
 [ ] User can see a catalouge of Recipes
 [ ] User can check details of each Recipe
 
@@ -44,12 +44,12 @@ Amai is a health tracker app aimed to help people who struggle with health probl
 
 - [x] Launch Screen
 * User can choose between their Diary and Recipe library
-- [ ] Diary Stream
+- [x] Diary Stream
 * User can see all their past entries
 * User can make a Diary Entry
-- [ ] Diary Creation
+- [x] Diary Creation
 * User can make a Diary Entry
-* User can specify their blood sugar level, heart rate, and mood level
+* User can specify their [x] diary entry title, [x] blood sugar level, [x] heart rate, and [ ] mood level
 - [ ] Recipe Stream
 * User can see a catalouge of Recipes
 - [ ] Recipe Detail
@@ -74,9 +74,9 @@ Amai is a health tracker app aimed to help people who struggle with health probl
 * -> Recipe Stream
 - [x] Diary Stream
 * -> Diary Creation
-- [ ] Recipe Stream
+- [x] Recipe Stream
 * -> Recipe Detail
-- [ ] Diary Creation
+- [x] Diary Creation
 * -> none for this version
 - [ ] Recipe Detail
 * -> none for this version
@@ -95,8 +95,6 @@ Amai is a health tracker app aimed to help people who struggle with health probl
 
 ## Schema 
 
-[This section will be completed in Unit 9]
-
 ### Models
 
 [Add table of models]
@@ -107,7 +105,15 @@ Amai is a health tracker app aimed to help people who struggle with health probl
 - [Create basic snippets for each Parse network request]
 - [OPTIONAL: List endpoints if using existing API such as Yelp]
 
-### Updates
+## Updates
 
 V1: 
 - 11/15/2023 Configured most segues, finishing up recipe seques
+- 11/18/2023 Was able to develop the diary feature although not entirely complete, trying to fix hiccups
+<div>
+    <a href="https://www.loom.com/share/3a0cfb60040e4e2280d9efd1fcc315bd">
+    </a>
+    <a href="https://www.loom.com/share/3a0cfb60040e4e2280d9efd1fcc315bd">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/3a0cfb60040e4e2280d9efd1fcc315bd-with-play.gif">
+    </a>
+  </div>

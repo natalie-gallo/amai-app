@@ -13,13 +13,14 @@ class RecipeViewController: UIViewController, UITableViewDataSource {
     }
     
     func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
-        let cell = 
+        let cell = recipeTableView.dequeueReusableCell(withIdentifier: "RecipeCell", for: indexPath)
+        //configuring missing
+        return cell
     }
     
 
     
     @IBOutlet weak var recipeTableView: UITableView!
-    
     
     override func viewDidLoad() {
         super.viewDidLoad()

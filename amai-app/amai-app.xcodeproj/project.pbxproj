@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		9A1F28322B06AAFC003F9B62 /* DiaryComposeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A1F28312B06AAFC003F9B62 /* DiaryComposeViewController.swift */; };
 		9A1F28342B06B215003F9B62 /* RecipeDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A1F28332B06B215003F9B62 /* RecipeDetailViewController.swift */; };
+		9A1F28362B084604003F9B62 /* DiaryEntry.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A1F28352B084604003F9B62 /* DiaryEntry.swift */; };
 		9A39BAD92B05ADC600AA4A10 /* DiaryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A39BAD82B05ADC600AA4A10 /* DiaryViewController.swift */; };
 		9A39BADD2B05B06500AA4A10 /* DiaryCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A39BADC2B05B06500AA4A10 /* DiaryCell.swift */; };
 		9A39BADF2B05C99E00AA4A10 /* RecipeCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A39BADE2B05C99E00AA4A10 /* RecipeCell.swift */; };
@@ -24,6 +25,7 @@
 /* Begin PBXFileReference section */
 		9A1F28312B06AAFC003F9B62 /* DiaryComposeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DiaryComposeViewController.swift; sourceTree = "<group>"; };
 		9A1F28332B06B215003F9B62 /* RecipeDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeDetailViewController.swift; sourceTree = "<group>"; };
+		9A1F28352B084604003F9B62 /* DiaryEntry.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DiaryEntry.swift; sourceTree = "<group>"; };
 		9A39BAD82B05ADC600AA4A10 /* DiaryViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DiaryViewController.swift; sourceTree = "<group>"; };
 		9A39BADC2B05B06500AA4A10 /* DiaryCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DiaryCell.swift; sourceTree = "<group>"; };
 		9A39BADE2B05C99E00AA4A10 /* RecipeCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeCell.swift; sourceTree = "<group>"; };
@@ -73,11 +75,12 @@
 				9A4FFCD42AFFFF8B0090C83F /* ViewController.swift */,
 				9A4FFCD62AFFFF8B0090C83F /* Main.storyboard */,
 				9A1F28332B06B215003F9B62 /* RecipeDetailViewController.swift */,
-				9A1F28312B06AAFC003F9B62 /* DiaryComposeViewController.swift */,
 				9A39BAE02B05CA1F00AA4A10 /* RecipeViewController.swift */,
 				9A39BADE2B05C99E00AA4A10 /* RecipeCell.swift */,
-				9A39BADC2B05B06500AA4A10 /* DiaryCell.swift */,
 				9A39BAD82B05ADC600AA4A10 /* DiaryViewController.swift */,
+				9A39BADC2B05B06500AA4A10 /* DiaryCell.swift */,
+				9A1F28312B06AAFC003F9B62 /* DiaryComposeViewController.swift */,
+				9A1F28352B084604003F9B62 /* DiaryEntry.swift */,
 				9A4FFCD92AFFFF8C0090C83F /* Assets.xcassets */,
 				9A4FFCDB2AFFFF8C0090C83F /* LaunchScreen.storyboard */,
 				9A4FFCDE2AFFFF8C0090C83F /* Info.plist */,
@@ -162,6 +165,7 @@
 				9A1F28322B06AAFC003F9B62 /* DiaryComposeViewController.swift in Sources */,
 				9A39BAE12B05CA1F00AA4A10 /* RecipeViewController.swift in Sources */,
 				9A4FFCD12AFFFF8B0090C83F /* AppDelegate.swift in Sources */,
+				9A1F28362B084604003F9B62 /* DiaryEntry.swift in Sources */,
 				9A39BADF2B05C99E00AA4A10 /* RecipeCell.swift in Sources */,
 				9A39BADD2B05B06500AA4A10 /* DiaryCell.swift in Sources */,
 				9A4FFCD32AFFFF8B0090C83F /* SceneDelegate.swift in Sources */,
