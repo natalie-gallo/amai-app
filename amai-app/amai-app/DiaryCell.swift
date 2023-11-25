@@ -34,16 +34,11 @@ class DiaryCell: UITableViewCell {
     // Update the UI for the given task
     private func update(with entry: DiaryEntry) {
         titleLabel.text = entry.title
-        //let unformattedDate = entry.createdDate.description // YYYY-MM-DD HH:MM:SS ±HHMM
-        /*
-        let dateFormatter = DateFormatter()
-        dateFormatter.dateStyle = .medium
-        dateFormatter.timeStyle = .none
-        dateFormatter.locale = Locale(identifier: "en_US")
-        let date = dateFormatter.string(from: entry.createdDate)
-        dateLabel.text = date*/
         
-        dateLabel.text = entry.createdDate.formatted()
+        //format date
+        let unformattedDate = entry.createdDate.formatted()
+        let endIndex = unformattedDate.index(unformattedDate.startIndex, offsetBy: 9)
+        dateLabel.text = String(unformattedDate[unformattedDate.startIndex...endIndex])
     }
     
     // This overrides the table view cell's default selected and highlighted behavior to do nothing, otherwise, the row would darken when tapped

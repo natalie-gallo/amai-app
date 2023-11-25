@@ -14,14 +14,9 @@ class DiaryComposeViewController: UIViewController {
     @IBOutlet weak var bloodGlucoseTextField: UITextField!
     @IBOutlet weak var heartRateTextField: UITextField!
     @IBOutlet weak var bloodPressureTextField: UITextField!
-    @IBOutlet weak var moodLabel: UILabel!
-    @IBOutlet weak var goodMoodButton: UIButton!
-    @IBOutlet weak var mehMoodButton: UIButton!
-    @IBOutlet weak var badMoodButton: UIButton!
-    @IBOutlet weak var goodMoodLabel: UILabel!
-    @IBOutlet weak var mehMoodLabel: UILabel!
-    @IBOutlet weak var badMoodLabel: UILabel!
     @IBOutlet weak var diaryEntryTextView: UITextView!
+    @IBOutlet weak var notesLabel: UILabel!
+    
     
     /*
     @IBAction func didTapGoodMoodButton(_ sender: UIButton) {
